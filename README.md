@@ -6,6 +6,7 @@
 - 📫 How to reach me [Purusharth Agarwal](https://www.linkedin.com/in/purusharthagarwal/)
 - 😄 Pronouns: He/Him/They/Them
 - ⚡ Fun fact: I am from a non-tech background and am learning to code and build projects anew.
+- 💡 Learning At: [Scaler Academy](https://github.com/scaleracademy)
 
 <!---
 purusharthcodeshere/purusharthcodeshere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,7 +1,7 @@
 # About Me: A little about myself
 - 👋 Hi, I’m @purusharthcodeshere
 - 👀 I’m interested in Learning Backend Development and How to make beginner projects
-- 🌱 I’m currently working on a [Quiz Application Project](https://github.com/purusharthcodeshere/QuizApplication)
+- 🌱 I’m currently working on a [E-Commerce Project](https://github.com/purusharthcodeshere/ScalerBackendProject)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me [Purusharth Agarwal](https://www.linkedin.com/in/purusharthagarwal/)
 - 😄 Pronouns: He/Him/They/Them
